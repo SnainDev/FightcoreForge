@@ -1,0 +1,3 @@
+# FightcoreForge
+
+It seems like I've created this repo only for the issues tab, what are you doing here...
